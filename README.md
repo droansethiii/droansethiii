@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Droan Sethi</h1>
 <h3 align="center">A passionate Cyber Security enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=droansethiii&label=Profile%20views&color=0e75b6&style=flat" alt="droansethiii" /> </p>
+
+- 🔭 I’m currently working on **Developing more skills**
+
+- 🌱 I’m currently learning **New Things**
+
+- 📫 How to reach me **droansethi00@gmail.com**
+
+- 📄 Know about my experiences [https://plum-nariko-6.tiiny.site](https://plum-nariko-6.tiiny.site)
+
+- ⚡ Fun fact **I am a tea lover**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/droansethiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="droansethiii" height="30" width="40" /></a>
